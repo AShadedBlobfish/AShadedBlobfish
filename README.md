@@ -1,4 +1,4 @@
-Hi,
-I'm AShadedBlobfish
+Computer Science student with a passion for FOSS
 
-I code stuff
+Basic knowledge of Java, C++, HTML, CSS and JavaScript
+Intermediate knowledge of C# and Python
